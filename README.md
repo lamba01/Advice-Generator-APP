@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/lamba01/Advice-Generator-App)
-- Live Site URL: (https://adviceegeneratorapp.netlify.app/)
+- Solution URL: [Solution](https://github.com/lamba01/Advice-Generator-App)
+- Live Site URL: [Live Site](https://adviceegeneratorapp.netlify.app/)
 
 ## My process
 
