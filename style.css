@@ -10,8 +10,8 @@
  }
  .container {
     background-color: hsl(217, 19%, 24%);
-    width: 30%;
-    height: 40vh;
+    width: 35%;
+    height: 30vh;
     position: absolute;
     left: 50%;
     top: 50%;
@@ -20,7 +20,7 @@
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
-    padding: 20px 20px;
+    padding: 25px;
     border-radius: 10px;
  }
  img {
@@ -52,4 +52,25 @@
     position: absolute;
     bottom: -20px;
     margin-top: 20px;
+}
+footer {
+    position: absolute;
+    bottom: 50px;
+}
+@media only screen and (min-height: 1000px) {
+    .container {
+        width: 50%;
+        height: 20vh;
+    }
+}
+@media only screen and (max-width: 767px) {
+    .container {
+        width: 50%;
+        height: 30vh;
+    }
+}
+@media only screen and (max-width: 480px) {
+    .container {
+        width: 70%;
+    }
 }
